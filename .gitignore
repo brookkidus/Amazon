@@ -45,10 +45,10 @@ bower_components
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-
+build
 # Dependency directories
 node_modules/
-
+build/
 # Optional npm cache directory
 .npm
 
